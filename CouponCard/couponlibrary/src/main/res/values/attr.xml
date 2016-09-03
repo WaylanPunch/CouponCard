@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CouponCard">
+        <attr name="gap" format="dimension" />
+        <attr name="radius" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="TriangleCouponCard">
+        <attr name="triangle_gap" format="dimension" />
+        <attr name="triangle_width" format="dimension" />
+        <attr name="triangle_height" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="Triangle2CouponCard">
+        <attr name="triangle2_gap" format="dimension" />
+        <attr name="triangle2_radius" format="dimension" />
+        <attr name="triangle2_height" format="dimension" />
+    </declare-styleable>
+</resources>
